@@ -15,3 +15,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 "# HackathonX_Die_With_A_Smile" 
+
+__________________
+This is our first time hackathon and also the first time try learn and use flutter to build an app. so we are sorry we couldnt produce the complete code but i think we tried our best. Thanks for your understanding. Still happy to join tho.
+____________________
+
