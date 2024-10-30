@@ -11,9 +11,8 @@ class DummyMapPage extends StatelessWidget {
         children: [
           // Background representing the map
           Container(
-            color: Colors.lightBlue[50], // Light blue background for water
+            color: Colors.lightBlue[50], 
           ),
-          // Adding colored rectangles to represent different areas
           Positioned(
             top: 100,
             left: 50,
